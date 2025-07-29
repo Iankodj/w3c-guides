@@ -9,9 +9,9 @@ Colour helps communicate, but relying on it alone excludes colour-blind users. P
 
 ### Relevant WCAG 2.1 success criteria
 
-- **1.4.1 Use of Colour** (Level A) – Do not use colour as the only cue.【755185167370695†L752-L769】
-- **1.4.3 Contrast (Minimum)** (Level AA) – 4.5:1 ratio for normal text and 3:1 for large text.【755185167370695†L795-L812】
-- **1.4.11 Non-text Contrast** (Level AA) – 3:1 ratio for icons and controls.【755185167370695†L973-L990】
+- **1.4.1 Use of Colour** (Level A) – Do not use colour as the only cue.
+- **1.4.3 Contrast (Minimum)** (Level AA) – 4.5:1 ratio for normal text and 3:1 for large text. ([WCAG 1.4.3 – Contrast (Minimum)](https://www.w3.org/TR/WCAG21/#contrast-minimum))
+- **1.4.11 Non-text Contrast** (Level AA) – 3:1 ratio for icons and controls. ([WCAG 1.4.11 – Non-text Contrast](https://www.w3.org/TR/WCAG21/#non-text-contrast))
 
 ### Technical guidance
 
