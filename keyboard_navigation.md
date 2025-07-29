@@ -9,11 +9,11 @@ Keyboard users need to operate every interactive control, move through content i
 
 ### Relevant WCAG 2.1 success criteria
 
-- **2.1.1 Keyboard** (Level A) – All functions are available from keyboard.【755185167370695†L1055-L1069】
-- **2.1.2 No Keyboard Trap** (Level A) – Keyboard focus is never trapped.【755185167370695†L1055-L1069】【755185167370695†L1088-L1092】
-- **2.4.1 Bypass Blocks** (Level A) – Provide skip links to skip repeated content.【755185167370695†L1349-L1371】
-- **2.4.3 Focus Order** (Level A) – Focus moves in a meaningful order.【755185167370695†L1349-L1371】
-- **2.4.7 Focus Visible** (Level AA) – Visible focus indicator is provided.【755185167370695†L1395-L1412】
+- **2.1.1 Keyboard** (Level A) – All functions are available from keyboard. ([ ([WCAG 2.1.1 – Keyboard](https://www.w3.org/TR/WCAG21/#keyboard))
+- **2.1.2 No Keyboard Trap** (Level A) – Keyboard focus is never trapped. ([WCAG 2.1.2 – No Keyboard Trap](https://www.w3.org/TR/WCAG21/#no-keyboard-trap))
+- **2.4.1 Bypass Blocks** (Level A) – Provide skip links to skip repeated content. ([WCAG 2.4.1 – Bypass Blocks](https://www.w3.org/TR/WCAG21/#bypass-blocks))
+- **2.4.3 Focus Order** (Level A) – Focus moves in a meaningful order. ([WCAG 2.4.3 – Focus Order](https://www.w3.org/TR/WCAG21/#focus-order))
+- **2.4.7 Focus Visible** (Level AA) – Visible focus indicator is provided. ([WCAG 2.4.7 – Focus Visible](https://www.w3.org/TR/WCAG21/#focus-visible))
 
 ### Technical guidance
 
