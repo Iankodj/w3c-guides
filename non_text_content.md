@@ -9,9 +9,9 @@ Images, icons and other graphics must have equivalent text so that users who can
 
 ### Relevant WCAG 2.1 success criteria
 
-- **1.1.1 Non-text Content** (Level A) – Supply text alternatives for non-text content.【755185167370695†L492-L544】
-- **1.4.5 Images of Text** (Level AA) – Use text instead of images of text wherever possible.【755185167370695†L492-L544】
-- **1.4.11 Non-text Contrast** (Level AA) – Provide 3:1 contrast ratio for icons and controls against adjacent colours.【755185167370695†L973-L990】
+- **1.1.1 Non-text Content** (Level A) – Supply text alternatives for non-text content. ([WCAG 1.1.1 – Non-text Content](https://www.w3.org/TR/WCAG21/#non-text-content))
+- **1.4.5 Images of Text** (Level AA) – Use text instead of images of text wherever possible. ([WCAG 1.4.5 – Images of Text](https://www.w3.org/TR/WCAG21/#images-of-text))
+- **1.4.11 Non-text Contrast** (Level AA) – Provide 3:1 contrast ratio for icons and controls against adjacent colours. ([WCAG 1.4.11 – Non-text Contrast](https://www.w3.org/TR/WCAG21/#non-text-contrast))
 
 ### Technical guidance
 
@@ -37,3 +37,4 @@ Images, icons and other graphics must have equivalent text so that users who can
 <h2>Sale!</h2>
 <p>Up to 50% off.</p>
 ```
+
